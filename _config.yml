@@ -2,6 +2,7 @@ name: "antonio miranda"
 description: "curriculum vitae"
 
 url: "http://localhost:4000"
+exclude: README.md
 
 paginate: 10
 

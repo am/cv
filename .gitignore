@@ -1,2 +1,4 @@
 # osx
 *.DS_Store
+
+_sites/*
