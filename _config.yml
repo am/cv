@@ -7,4 +7,5 @@ paginate: 10
 
 markdown: rdiscount
 permalink: pretty
+lsi: false
 pygments: true
