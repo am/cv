@@ -6,9 +6,9 @@ layout: default
 Trayectoria profesional y académica
 -----------------------------------
 
+_2010 ¬ ∞_
 ### Frontend Developer
 #### DoubleYou
-** octubre de 2010 – Actualidad **
 
 Barcelona, España
 Creative developer  
@@ -30,9 +30,9 @@ Creative developer
 - Wuaki
 
 
+_2008 ¬ 2010_
 ### Interactive Developer
 #### Igriega
-** junio de 2008 – septiembre de 2010 (2 años 4 meses) **
 
 Barcelona, España
 dirección de arte, gestión de medios de comunicación, diseño web, aplicaciones multimedia, video, animación 
@@ -45,9 +45,9 @@ dirección de arte, gestión de medios de comunicación, diseño web, aplicacion
 - La Vanguardia
 - Puig (Agatha Ruiz de la Prada, Shakira)
 
+_2008 ¬ 2008_
 ### Interactive Developer
 #### Via71
-** marzo de 2008 – mayo de 2008 (3 meses) **
 
 Barcelona, España
 dirección de arte, diseño web, aplicaciones multimedia, video, animación 3d
@@ -57,9 +57,9 @@ dirección de arte, diseño web, aplicaciones multimedia, video, animación 3d
 - Grupo Festina
 - Magnolia jeans
 
+_2006 ¬ 2008_
 ### Design studio partner
 #### complexresponse
-** 2006 – 2008 (2 años) **
 
 Portugal
 dirección de arte, gestión de medios de comunicación, diseño gráfico, fotografia, ilustración, diseño web, 
@@ -73,9 +73,9 @@ aplicaciones multimedia, video, animación 3d en colaboración con marta pinto
 - Plantas da Fonte
 - Sino design
 
+_2004 ¬ 2006_
 ### Designer / Developer
 #### omf - arquitectura e design, lda
-** 2004 – 2006 (2 años) **
 
 Portugal
 dirección de arte, diseño gráfico, fotografia, ilustración, escaparatismo, diseño web, aplicaciones multimedia, video, animación 3d, promoción de eventos culturales, concepción del espacio arquitectónico y su envolvente visual
@@ -103,9 +103,9 @@ dirección de arte, diseño gráfico, fotografia, ilustración, escaparatismo, d
 - Tioccha Kids Wear
 - Zoom - associação cultural
 
+_2003 ¬ 2004_
 ### Developer
 #### Contacto Visual - Serviços de Informática Unip Lda
-** 2003 – 2004 (1 año) **
 
 Portugal
 elaboración de proyectos web, aplicativos multimédia, animación 3d
@@ -115,18 +115,18 @@ elaboración de proyectos web, aplicativos multimédia, animación 3d
 - Piscinas Variante, lda.
 - Autowelt
 
+_2003 ¬ 2003_
 ### Freelance / Designer
 #### Freelance
-** 2003 – 2003 (menos de un año) **
 
 Estonia
 elaboración de proyectos gráficos en colaboración con kristjan mändmaa y vitor aguiar
 
 - Krediidipank
 
+_2000 ¬ 2003_
 ### Freelance / Designer
 #### Freelance
-** 2000 – 2003 (3 años) **
 
 Portugal
 elaboración de proyectos web y gráficos en colaboración con joão sousa lopes 
@@ -136,17 +136,19 @@ elaboración de proyectos web y gráficos en colaboración con joão sousa lopes
 - Dossier
 - Etfor
 
+
 Educación
 ---------
 
-
+_2003 ¬ 2004_
 ### Licentiate degree, Design and Visual Communications, General
 #### Escola Superior de Artes e Design
-** 2003 – 2004 **
 
+Correspondiendo a 240 créditos ects, con la clasificación final de 15 puntos, escala B en la clasificación ects 
+
+_1999 ¬ 2002_
 ### Bachelor's degree, Design and Applied Arts
 #### Escola Superior de Artes e Design
-** 1999 – 2002 **
 
 ## Idiomas
 
@@ -157,12 +159,17 @@ Educación
 Reconocimientos y premios
 -------------------------
 
-### [istd / esad] print \ electronic media \ alternative media project - mérito
-#### istd / esad
-2003
-### ‘porto na rota dos vinhos’ - proyeto seleccionado
-#### porto na rota dos vinhos
-2002
+_2003_
+### ISTD
+#### esad
+
+Print, electronic media, alternative media project - mérito — http://www.istd.org.uk/
+
+_2002_
+### porto na rota dos vinhos
+#### esad / porto na rota dos vinhos
+
+Proyeto seleccionado
 
 Cursos
 ------
