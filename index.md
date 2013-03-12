@@ -14,10 +14,11 @@ antónio césar soeiro miranda
 
 Aptitudes
 ---------
-**Diseño Interactivo, Desarrollo Front-End, 3D, Fotografia.** Cuando empecé a estudiar diseño de comunicación encontraba difícil saber donde estaba la frontera entre crear y producir, siempre he mesclado los dos conceptos, y así nasció mi interese por la programación.  
-En los últimos 12 años he aprendido a programar, en un principio con el simple objetivo de materializar ideas, responder a necesidades de proyecto, y luego he aprendido que las lenguajes pueden expresar más que su resultado una vez "compiladas". Siempre busco nuevas formas de mejorar el desarrollo en equipo — la arquitectura de software, los patrones de diseño, la automatización del entorno de desarrollo — son temas que me ayudan en cuanto tal.  
-La comunidad de opensource hace posible todo lo que hago, en [mi perfile de Github](https://github.com/am/following "stared") estan las librerias que más utilizo.   
-Afortunadamente he podido experimentar trabajar con diversas lenguajes, a continuación dejo un listado de las que más me impactaran, y de otras que aunque no sean consideradas lenguajes en cuanto tal considero importante mencionar:
+**Diseño Interactivo, Desarrollo Front-End, 3D, Fotografia.** Cuando empecé a estudiar diseño de comunicación encontraba difícil saber dónde estaba la frontera entre crear y producir, siempre he mezclado los dos conceptos, y así nació mi interés por la programación.   
+En los últimos 12 años he aprendido a programar, en un principio con el simple objetivo de materializar ideas, responder a necesidades de proyecto, y luego he aprendido que los lenguajes pueden expresar más que su resultado una vez "compilados".   
+Siempre busco nuevas formas de mejorar el desarrollo en equipo — la arquitectura del software, los patrones de diseño, la automatización del entorno de desarrollo — son algunas de las cosas que me ayudan a lograrlo.   
+La comunidad open-source hace posible todo lo que hago, en mi perfil de Github están aquellas librerías que más utilizo.   
+Afortunadamente he podido experimentar y trabajar con diversos lenguajes, a continuación dejo un listado de las que más me impactaron, y de otros que aunque no son considerados lenguajes considero importante mencionar:   
 
 - **actionscript**
 - c#
@@ -28,10 +29,8 @@ Afortunadamente he podido experimentar trabajar con diversas lenguajes, a contin
 - lingo
 - make • rake • ant
 - **markdown**
-- sh
 - php
 - processing
-- rake
 - ruby
 
 Mi experiencia con controle de versiones:
