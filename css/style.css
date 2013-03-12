@@ -1,5 +1,14 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto:400,700,300|Roboto+Condensed:400,700);
 
+/*
+ * colors:
+ * #212E32
+ * #85937A
+ * #586C5D
+ * #A9AF90
+ * #DEDCB8
+ */
+
 html, body {
   padding:1em;
   margin:auto;
@@ -50,6 +59,7 @@ h1 {
   font-weight: normal;
 }
 h2 {
+  margin-top: 3em;
   font-weight: normal;
   border-bottom: 1px silver dashed;
   font-size: 1.2em;
@@ -57,7 +67,7 @@ h2 {
 }
 h3 {
   font-weight: normal;
-  margin: 3em 0 0;
+  margin: 70px 0 0;
   font-size: 1.5em;
 }
 h4 {
@@ -103,7 +113,7 @@ code {
   background: white;
 }
 a {
-  color: #2484c1;
+  color: #709CAA;
   text-decoration: none;
 }
 a:hover {
@@ -153,6 +163,14 @@ body#index li {
   margin-bottom: 1em;
 }
 
+/* Print
+--------------------------- */
+@media only print {
+  body {
+    font-size: 80%;
+    line-height: 1.4;
+  }
+  }
 
 /* iPad
 -------------------------------------------------------- */

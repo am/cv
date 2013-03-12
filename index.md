@@ -3,12 +3,83 @@ title: cv - antonio miranda
 layout: default
 ---
 
+Datos personales
+----------------
+antónio césar soeiro miranda    
+[antsmiranda@gmail.com](mailto:antsmiranda@gmail.com "contact me")  
++34 664 187 182
+
+[@github](http://github.com/am "am @ github")
+[@stackoverflow](http://stackoverflow.com/users/220272 "am @ stackoverflow")
+
+Aptitudes
+---------
+**Diseño Interactivo, Desarrollo Front-End, 3D, Fotografia.** Cuando empecé a estudiar diseño de comunicación encontraba difícil saber donde estaba la frontera entre crear y producir, siempre he mesclado los dos conceptos, y así nasció mi interese por la programación.  
+En los últimos 12 años he aprendido a programar, en un principio con el simple objetivo de materializar ideas, responder a necesidades de proyecto, y luego he aprendido que las lenguajes pueden expresar más que su resultado una vez "compiladas". Siempre busco nuevas formas de mejorar el desarrollo en equipo — la arquitectura de software, los patrones de diseño, la automatización del entorno de desarrollo — son temas que me ayudan en cuanto tal.  
+La comunidad de opensource hace posible todo lo que hago, en [mi perfile de Github](https://github.com/am/following "stared") estan las librerias que más utilizo.   
+Afortunadamente he podido experimentar trabajar con diversas lenguajes, a continuación dejo un listado de las que más me impactaran, y de otras que aunque no sean consideradas lenguajes en cuanto tal considero importante mencionar:
+
+- **actionscript**
+- c#
+- **css • less • sass**
+- **html • haml**
+- java
+- **javascript • coffeescript**
+- lingo
+- make • rake • ant
+- **markdown**
+- sh
+- php
+- processing
+- rake
+- ruby
+
+Mi experiencia con controle de versiones:
+
+- git
+- svn
+
+Algunas herramientas con las que trabajo a diario:
+
+- osx • linux • unix
+- dotfiles
+- adobe CS
+- eclipse
+- ftp clients
+- intelliJ • rubymine
+- sh (shell) • zsh
+- sublime text
+- unity3D
+- cinema4D
+- VM clients
+
+Otros:
+
+- Cloud servers (Amazon, Heroku, Openshift, Cloud9, Appfog)
+- Github • Bitbucket
+
+Dominio teórico:
+
+- semiótica
+- usabilidad
+- guión multimedia
+- gestión de equipos
+- cibercultura
+- estética y composición
+- publicidad y estrategias de marketing
+- psicología de la percepción
+- luz y color
+- procesado analógico de imagen
+- arquitecturas de red
+- sistemas de comunicación de cultura y conocimiento
+
+
 Trayectoria profesional y académica
 -----------------------------------
 
 _2010 ¬ ∞_
 ### Frontend Developer
-#### DoubleYou
+#### [DoubleYou](http://www.doubleyou.com/ "Doubleyou")
 
 Barcelona, España
 Creative developer  
@@ -32,7 +103,7 @@ Creative developer
 
 _2008 ¬ 2010_
 ### Interactive Developer
-#### Igriega
+#### [Igriega](http://www.igriega-comunicacion.com/ "Igriega")
 
 Barcelona, España
 dirección de arte, gestión de medios de comunicación, diseño web, aplicaciones multimedia, video, animación 
@@ -47,7 +118,7 @@ dirección de arte, gestión de medios de comunicación, diseño web, aplicacion
 
 _2008 ¬ 2008_
 ### Interactive Developer
-#### Via71
+#### [Via71](http://www.via71.com/ "Via71")
 
 Barcelona, España
 dirección de arte, diseño web, aplicaciones multimedia, video, animación 3d
@@ -59,7 +130,7 @@ dirección de arte, diseño web, aplicaciones multimedia, video, animación 3d
 
 _2006 ¬ 2008_
 ### Design studio partner
-#### complexresponse
+#### Complexresponse
 
 Portugal
 dirección de arte, gestión de medios de comunicación, diseño gráfico, fotografia, ilustración, diseño web, 
@@ -137,27 +208,59 @@ elaboración de proyectos web y gráficos en colaboración con joão sousa lopes
 - Etfor
 
 
-Educación
----------
+Educación Académica
+-------------------
 
 _2003 ¬ 2004_
-### Licentiate degree, Design and Visual Communications, General
+### Curso de diseño, opción comunicación
 #### Escola Superior de Artes e Design
 
-Correspondiendo a 240 créditos ects, con la clasificación final de 15 puntos, escala B en la clasificación ects 
+**Licenciatura** correspondiendo a 240 créditos ects, con la clasificación final de 15 puntos, escala B en la clasificación ects 
 
 _1999 ¬ 2002_
 ### Bachelor's degree, Design and Applied Arts
 #### Escola Superior de Artes e Design
 
-## Idiomas
+**Diplomatura**
 
-1. Portugués
-2. Inglés
-3. Español
+_1996 ¬ 1999_
+### Curso de secundaria, artes visuais
+#### Escola Soares dos Reis’, Porto
+
+Formación Profesional
+---------------------
+
+_2005_
+### ane
+#### formación pedagógica de formadores (105 hrs.)
+Clasificación B
+
+_2004_
+### gti
+#### inglés comercial (100 hrs.)
+Clasificación A
+
+Idiomas
+-------
+
+1. **Portugués**
+2. **Inglés**
+3. **Español**
 
 Reconocimientos y premios
 -------------------------
+
+_2012_
+### Laus de Plata
+#### web y medios digitales
+Campaña de "Revívelo", de Atrápalo
+
+
+_2012_
+### Sol de Oro
+#### social media marketing
+Makeitcount: Propósitos En Gigafoto
+
 
 _2003_
 ### ISTD
@@ -174,10 +277,17 @@ Proyeto seleccionado
 Cursos
 ------
 
-### ‘conversing work’ 
-orientado por ‘tomato design’ - OFFF 2005
+### conversing work 
+orientado por **tomato design** - OFFF 2005
 
-### ‘uno uno prima’ 
-orientado por william klein, emir kusturica y michelangelo pistoletto
+### uno uno prima
+orientado por **william klein**, **emir kusturica** y **michelangelo pistoletto**
 
-### ‘conformar papel’ - ‘esad’ \ ‘loja do nunca’
+### conformar papel
+#### esad \ loja do nunca
+
+muestras / conferencias
+-----------------------
+
+
+
