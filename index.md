@@ -22,12 +22,18 @@ I’ve spent 12 years making the compilers scream, overflowing the console; alth
 Proficiency
 -----------
 
-A wide variety of projects lead me to learn different languages and technologies. Some I use on a daily base, other’s just had a brief contact (in alphabetical order): 
+Although my technologic interests are vast I'm specialized in frontend interactive development. In the past I've done: static html / css websites, crafted cd-rom executable application with lingo, had fun creating games with unity3D and C#, learn how to structure a mvc application in actionscript with robotlegs, coded simple apps for android with java and saved data to server with php.
+
+Lately I've been focusing in responsive / mobile web development, object-oriented javascript / coffeescript, ajax applications, html / css / js pre-processors, try to follow a path through the new features applying strategies like progressive enhancement and graceful degradation. I've particular interest with rails applications (code should be a pleasant task), and some experience with symfony2. I use git and svn on a daily base.
+
+I leverage my work based on open-source libraries like backbone, underscore, ember, jquery, requiere, modernizr, css grids for naming a few, but most of the Open source libraries that I work with can be found on my 
+ [Github profile](https://github.com/am/following "starred").
 
 - **actionscript**
 - **bash**
 - c#
 - **css • less • sass**
+- **dom**
 - **git • svn**
 - **html • haml**
 - java
@@ -37,6 +43,7 @@ A wide variety of projects lead me to learn different languages and technologies
 - **markdown**
 - php
 - processing
+- regexp
 - ruby
 - sql
 
@@ -53,8 +60,6 @@ Software:
 - unity3D
 - VM clients
 
-Most of the Open source libraries that I work with can be found on my [Github profile](https://github.com/am/following "stared").
-
 Others:
 
 - Cloud servers (Amazon, Heroku, Openshift, Cloud9, Appfog)
@@ -64,6 +69,7 @@ Theoretical knowledge:
 
 - semiotics
 - usability
+- typography
 - interactive scripting
 - team management
 - cyberculture
@@ -255,13 +261,13 @@ Awards & honors
 _2012_
 ### Laus de Plata
 #### web & digital media
-Campaña de "Revívelo", de Atrápalo
+"Revívelo" a advertising campaign for the brand "Atrápalo"
 
 
 _2012_
 ### Sol de Oro
 #### social media marketing
-Makeitcount: Propósitos En Gigafoto
+"Makeitcount: Propósitos En Gigafoto"
 
 
 _2003_
