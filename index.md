@@ -84,7 +84,7 @@ _2010 ¬ ∞_
 ### Frontend Developer
 #### [DoubleYou](http://www.doubleyou.com/ "Doubleyou")
 
-Barcelona, Spain      
+Barcelona, Spain   
 Creative front-end developer  
 
 - Arbora (eusonia, evax)
@@ -108,7 +108,7 @@ _2008 ¬ 2010_
 ### Interactive Developer
 #### [Igriega](http://www.igriega-comunicacion.com/ "Igriega")
 
-Barcelona, Spain      
+Barcelona, Spain   
 art direction, communications media management, web design, multimedia applications, video, 3d animation  
 
 - Bugaboo
@@ -122,7 +122,7 @@ _2008 ¬ 2008_
 ### Interactive Developer
 #### [Via71](http://www.via71.com/ "Via71")
 
-Barcelona, Spain      
+Barcelona, Spain   
 art direction, web design, multimedia applications, video, 3d animation
 
 - AAA la salle trives
@@ -191,7 +191,7 @@ _2003 ¬ 2003_
 ### Freelance / Designer
 #### Freelance
 
-Estonia
+Estonia   
 graphic design projects with kristjan mändmaa y vitor aguiar
 
 - Krediidipank
@@ -200,7 +200,7 @@ _2000 ¬ 2003_
 ### Freelance / Designer
 #### Freelance
 
-Portugal
+Portugal   
 graphic design projects in collaboration with joão sousa lopes 
 
 - Neopul
