@@ -1,5 +1,3 @@
 # curriculum vitae
 
-A simple static (html) generator for my cv powered by [Jekyll][j]
-
-[j]: http://jekyllrb.com/ 
+A simple static (html) generator for my [cv](http:am.github.com/cv/ "Antonio Miranda") powered by [Jekyll](http://jekyllrb.com/ "")

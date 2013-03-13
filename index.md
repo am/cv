@@ -3,7 +3,7 @@ title: cv - antonio miranda
 layout: default
 ---
 
-Datos personales
+Personal information
 ----------------
 antónio césar soeiro miranda    
 [antsmiranda@gmail.com](mailto:antsmiranda@gmail.com "contact me")  
@@ -12,17 +12,23 @@ antónio césar soeiro miranda
 [@github](http://github.com/am "am @ github")
 [@stackoverflow](http://stackoverflow.com/users/220272 "am @ stackoverflow")
 
-Aptitudes
----------
-**Diseño Interactivo, Desarrollo Front-End, 3D, Fotografia.** Cuando empecé a estudiar diseño de comunicación encontraba difícil saber dónde estaba la frontera entre crear y producir, siempre he mezclado los dos conceptos, y así nació mi interés por la programación.   
-En los últimos 12 años he aprendido a programar, en un principio con el simple objetivo de materializar ideas, responder a necesidades de proyecto, y luego he aprendido que los lenguajes pueden expresar más que su resultado una vez "compilados".   
-Siempre busco nuevas formas de mejorar el desarrollo en equipo — la arquitectura del software, los patrones de diseño, la automatización del entorno de desarrollo — son algunas de las cosas que me ayudan a lograrlo.   
-La comunidad open-source hace posible todo lo que hago, en mi perfil de Github están aquellas librerías que más utilizo.   
-Afortunadamente he podido experimentar y trabajar con diversos lenguajes, a continuación dejo un listado de las que más me impactaron, y de otros que aunque no son considerados lenguajes considero importante mencionar:   
+Background
+----------
+
+**Interaction Design, Front-end development, 3D, Photography.** While I was studying communication design I found difficult to understand the boundary between create and develop, a clever idea would worth nothing if I couldn’t express it. On the other end exploring, building, making code would lead me to results that I couldn’t imagine before. After all code is just a tool for creative minds.
+
+I’ve spent 12 years making the compilers scream, overflowing the console; although I consider myself a quick learner, my code skills are self-taught. Besides working for reaching a specific goal (make a user smile, to give an example), for the last few years I’ve increased my interest on improve teamwork; software architecture, design patterns, automated workflows are some of the areas that helped managing larger projects.
+
+Proficiency
+-----------
+
+A wide variety of projects lead me to learn different languages and technologies. Some I use on a daily base, other’s just had a brief contact (in alphabetical order): 
 
 - **actionscript**
+- **bash**
 - c#
 - **css • less • sass**
+- **git • svn**
 - **html • haml**
 - java
 - **javascript • coffeescript**
@@ -32,56 +38,54 @@ Afortunadamente he podido experimentar y trabajar con diversos lenguajes, a cont
 - php
 - processing
 - ruby
+- sql
 
-Mi experiencia con controle de versiones:
-
-- git
-- svn
-
-Algunas herramientas con las que trabajo a diario:
+Software:
 
 - osx • linux • unix
-- dotfiles
 - adobe CS
+- cinema4D
 - eclipse
 - ftp clients
 - intelliJ • rubymine
 - sh (shell) • zsh
 - sublime text
 - unity3D
-- cinema4D
 - VM clients
 
-Otros:
+Most of the Open source libraries that I work with can be found on my [Github profile](https://github.com/am/following "stared").
+
+Others:
 
 - Cloud servers (Amazon, Heroku, Openshift, Cloud9, Appfog)
 - Github • Bitbucket
 
-Dominio teórico:
+Theoretical knowledge:
 
-- semiótica
-- usabilidad
-- guión multimedia
-- gestión de equipos
-- cibercultura
-- estética y composición
-- publicidad y estrategias de marketing
-- psicología de la percepción
-- luz y color
-- procesado analógico de imagen
-- arquitecturas de red
-- sistemas de comunicación de cultura y conocimiento
+- semiotics
+- usability
+- interactive scripting
+- team management
+- cyberculture
+- aesthetic experience & visual composition
+- information design
+- marketing and advertising
+- perceptual psychology
+- light and color
+- analog image processing
+- network architecture
+- information systems and knowledge cultures
 
 
-Trayectoria profesional y académica
------------------------------------
+Professional experience
+-----------------------
 
 _2010 ¬ ∞_
 ### Frontend Developer
 #### [DoubleYou](http://www.doubleyou.com/ "Doubleyou")
 
-Barcelona, España
-Creative developer  
+Barcelona, Spain      
+Creative front-end developer  
 
 - Arbora (eusonia, evax)
 - Atrapalo
@@ -104,9 +108,8 @@ _2008 ¬ 2010_
 ### Interactive Developer
 #### [Igriega](http://www.igriega-comunicacion.com/ "Igriega")
 
-Barcelona, España
-dirección de arte, gestión de medios de comunicación, diseño web, aplicaciones multimedia, video, animación 
-3d   
+Barcelona, Spain      
+art direction, communications media management, web design, multimedia applications, video, 3d animation  
 
 - Bugaboo
 - Esad Business School
@@ -119,8 +122,8 @@ _2008 ¬ 2008_
 ### Interactive Developer
 #### [Via71](http://www.via71.com/ "Via71")
 
-Barcelona, España
-dirección de arte, diseño web, aplicaciones multimedia, video, animación 3d
+Barcelona, Spain      
+art direction, web design, multimedia applications, video, 3d animation
 
 - AAA la salle trives
 - Grupo Duplex
@@ -131,9 +134,9 @@ _2006 ¬ 2008_
 ### Design studio partner
 #### Complexresponse
 
-Portugal
-dirección de arte, gestión de medios de comunicación, diseño gráfico, fotografia, ilustración, diseño web, 
-aplicaciones multimedia, video, animación 3d en colaboración con marta pinto
+Portugal   
+art direction, communications media management, graphic design, photography, illustration, web design, 
+multimedia applications, video, 3d animation — in collaboration with marta pinto
 
 - Centro de Estudo de Esposende
 - Chemega Design
@@ -147,27 +150,26 @@ _2004 ¬ 2006_
 ### Designer / Developer
 #### omf - arquitectura e design, lda
 
-Portugal
-dirección de arte, diseño gráfico, fotografia, ilustración, escaparatismo, diseño web, aplicaciones multimedia, video, animación 3d, promoción de eventos culturales, concepción del espacio arquitectónico y su envolvente visual
+Portugal   
+art direction, graphic design, photography, illustration, window dressing, web design, multimedia applications, video, 3d animation, promotion of cultural events, environmental design
 
-- Alfapar (promoção imobiliária)
+- Alfapar (real estate)
 - Artisforum
 - Camara Municipal de Esposende
-- Casa de Vilacetinho (produção de vinhos)
+- Casa de Vilacetinho (winemaking)
 - Cecominsa (real estate)
 - Centro de Imagiologia da Trindade
 - Cipriano Joias
-- Con6 (promoção imobiliária)
-- Éobra (edições fotográficas)
+- Con6 (real estate)
+- Éobra (editorial photography)
 - Forbody (sportswear) 
 - Gestibérica (real estate)
 - Gti - gabinete de apoio técnico ao investimento
-- Noviente (comércio de artigos de decoração)
-- Oficinas da Casa
-- Ogma (soluciones inmobiliarias)
-- Parúnico (revista de moda)
+- Noviente
+- Ogma (real estate)
+- Parúnico (fashion magazine)
 - Pizza&ca
-- Quinta d’amares (produção de vinhos)
+- Quinta d’amares (winemaking)
 - Silence Developments
 - Stonecub
 - Tioccha Kids Wear
@@ -177,8 +179,8 @@ _2003 ¬ 2004_
 ### Developer
 #### Contacto Visual - Serviços de Informática Unip Lda
 
-Portugal
-elaboración de proyectos web, aplicativos multimédia, animación 3d
+Portugal   
+web applications and multimedia development, 3d animation
 
 - Tintas Lacca
 - Ourivesaria Tavares
@@ -190,7 +192,7 @@ _2003 ¬ 2003_
 #### Freelance
 
 Estonia
-elaboración de proyectos gráficos en colaboración con kristjan mändmaa y vitor aguiar
+graphic design projects with kristjan mändmaa y vitor aguiar
 
 - Krediidipank
 
@@ -199,7 +201,7 @@ _2000 ¬ 2003_
 #### Freelance
 
 Portugal
-elaboración de proyectos web y gráficos en colaboración con joão sousa lopes 
+graphic design projects in collaboration with joão sousa lopes 
 
 - Neopul
 - Genium
@@ -207,51 +209,52 @@ elaboración de proyectos web y gráficos en colaboración con joão sousa lopes
 - Etfor
 
 
-Educación Académica
--------------------
+Academic education
+------------------
 
 _2003 ¬ 2004_
-### Curso de diseño, opción comunicación
-#### Escola Superior de Artes e Design
+### MA in communication design
+#### [Escola Superior de Artes e Design](http://esad.pt/ "esad")
 
-**Licenciatura** correspondiendo a 240 créditos ects, con la clasificación final de 15 puntos, escala B en la clasificación ects 
+**Master** validates 240 credits ects. 15 points, equals to degree B in the ects classification
 
 _1999 ¬ 2002_
 ### Bachelor's degree, Design and Applied Arts
-#### Escola Superior de Artes e Design
+#### [Escola Superior de Artes e Design](http://esad.pt/ "esad")
 
-**Diplomatura**
+**Bachelor**
 
 _1996 ¬ 1999_
-### Curso de secundaria, artes visuais
-#### Escola Soares dos Reis’, Porto
+### Secondary education, visual arts
+#### Escola Soares dos Reis, Porto
 
-Formación Profesional
----------------------
+Professional education
+----------------------
 
 _2005_
-### ane
-#### formación pedagógica de formadores (105 hrs.)
-Clasificación B
+### professional Trainer Certificate (105 hrs.)
+#### [ANE](http://www.ane.pt/ "Ane")
+classification B
 
 _2004_
-### gti
-#### inglés comercial (100 hrs.)
-Clasificación A
+### business English (100 hrs.)
+#### [GTI](http://www.gti.pt/ "Gti")
+classification A
 
-Idiomas
--------
+Natural languages
+-----------------
 
-1. **Portugués**
-2. **Inglés**
-3. **Español**
+1. **Portuguese** (mother tongue)
+2. **English** (full professional proficiency)
+3. **Spanish** (full professional proficiency)
+4. **Catalan and French** (elementary proficiency)
 
-Reconocimientos y premios
--------------------------
+Awards & honors
+---------------
 
 _2012_
 ### Laus de Plata
-#### web y medios digitales
+#### web & digital media
 Campaña de "Revívelo", de Atrápalo
 
 
@@ -263,30 +266,24 @@ Makeitcount: Propósitos En Gigafoto
 
 _2003_
 ### ISTD
-#### esad
+#### [ESAD](http://esad.pt/ "esad")
 
-Print, electronic media, alternative media project - mérito — http://www.istd.org.uk/
+Print, electronic media, alternative media project - merit — http://www.istd.org.uk/
 
 _2002_
 ### porto na rota dos vinhos
-#### esad / porto na rota dos vinhos
+#### [ESAD](http://esad.pt/ "esad") / porto na rota dos vinhos
 
-Proyeto seleccionado
+Selected project
 
-Cursos
-------
+Workshops
+---------
 
 ### conversing work 
-orientado por **tomato design** - OFFF 2005
+by **tomato design** - OFFF 2005
 
 ### uno uno prima
-orientado por **william klein**, **emir kusturica** y **michelangelo pistoletto**
+by **william klein**, **emir kusturica** and **michelangelo pistoletto**
 
 ### conformar papel
 #### esad \ loja do nunca
-
-muestras / conferencias
------------------------
-
-
-
