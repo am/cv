@@ -26,7 +26,7 @@ Although my technologic interests are vast I'm specialized in frontend interacti
 
 Lately I've been focusing in responsive / mobile web development, object-oriented javascript / coffeescript, ajax applications, html / css / js pre-processors, try to follow a path through the new features applying strategies like progressive enhancement and graceful degradation. I've particular interest with rails applications (code should be a pleasant task), and some experience with symfony2. I use git and svn on a daily base.
 
-I leverage my work based on open-source libraries like backbone, underscore, ember, jquery, requiere, modernizr, css grids for naming a few, but most of the Open source libraries that I work with can be found on my 
+I leverage my work based on open-source libraries like backbone, underscore, ember, jquery, requirejs, modernizr, css grids for naming a few, but most of the Open source libraries that I work with can be found on my 
  [Github profile](https://github.com/am/following "starred").
 
 - **actionscript**
