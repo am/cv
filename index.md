@@ -32,10 +32,10 @@ I leverage my work based on open-source libraries like backbone, underscore, emb
 - **actionscript**
 - **bash**
 - c#
-- **css • less • sass**
+- **css • sass • less • stylus**
 - **dom**
 - **git • svn**
-- **html • haml**
+- **html • haml • slim • jade**
 - java
 - **javascript • coffeescript**
 - lingo
@@ -72,6 +72,7 @@ Theoretical knowledge:
 - typography
 - interactive scripting
 - team management
+- agile methodology
 - cyberculture
 - aesthetic experience & visual composition
 - information design
@@ -86,12 +87,20 @@ Theoretical knowledge:
 Professional experience
 -----------------------
 
-_2010 ¬ ∞_
+_2013 ¬ ∞_
+### Web Development Tech Lead
+#### [Wuaki.tv](http://www.wuaki.tv/ "Wuaki.tv")
+
+Barcelona, Spain   
+Web Development Tech Lead   
+
+
+_2010 ¬ 2013_
 ### Frontend Developer
 #### [DoubleYou](http://www.doubleyou.com/ "Doubleyou")
 
 Barcelona, Spain   
-Creative front-end developer  
+Creative front-end developer   
 
 - Arbora (eusonia, evax)
 - Atrapalo
@@ -115,7 +124,7 @@ _2008 ¬ 2010_
 #### [Igriega](http://www.igriega-comunicacion.com/ "Igriega")
 
 Barcelona, Spain   
-art direction, communications media management, web design, multimedia applications, video, 3d animation  
+art direction, communications media management, web design, multimedia applications, video, 3d animation   
 
 - Bugaboo
 - Esad Business School
@@ -141,8 +150,7 @@ _2006 ¬ 2008_
 #### Complexresponse
 
 Portugal   
-art direction, communications media management, graphic design, photography, illustration, web design, 
-multimedia applications, video, 3d animation — in collaboration with marta pinto
+art direction, communications media management, graphic design, photography, illustration, web design, multimedia applications, video, 3d animation — in collaboration with marta pinto
 
 - Centro de Estudo de Esposende
 - Chemega Design
@@ -168,7 +176,7 @@ art direction, graphic design, photography, illustration, window dressing, web d
 - Cipriano Joias
 - Con6 (real estate)
 - Éobra (editorial photography)
-- Forbody (sportswear) 
+- Forbody (sportswear)
 - Gestibérica (real estate)
 - Gti - gabinete de apoio técnico ao investimento
 - Noviente
@@ -207,7 +215,7 @@ _2000 ¬ 2003_
 #### Freelance
 
 Portugal   
-graphic design projects in collaboration with joão sousa lopes 
+graphic design projects in collaboration with joão sousa lopes
 
 - Neopul
 - Genium
@@ -285,7 +293,7 @@ Selected project
 Workshops
 ---------
 
-### conversing work 
+### conversing work
 by **tomato design** - OFFF 2005
 
 ### uno uno prima
